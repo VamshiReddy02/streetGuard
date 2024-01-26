@@ -202,4 +202,4 @@ Important decisions regarding the project are taken by the following maintainer.
 | Vamshi        |
 | :-------------: |
 | <img  height="100" width="100" src="https://avatars.githubusercontent.com/u/99033623?v=4">      |
-| [@imabp](https://github.com/vamshireddy02)      |
+| [@VamshiReddy02](https://github.com/vamshireddy02)      |
