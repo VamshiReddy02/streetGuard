@@ -8,7 +8,7 @@
   </a>
 
   <p align="center">
-    This is an <b>Urban Issue Reporting Web Application</b> aspires to address a wide spectrum of challenges faced by urban communities related to infrastructure maintenance and safety. The primary focus is on providing an efficient and collaborative platform for reporting and resolving issues such as potholes, damaged roads, debris obstruction,and flooding. 
+    This is an <b>Urban Issue Reporting Web Application</b> aspires to address a wide spectrum of challenges faced by urban communities related to infrastructure maintenance and safety. The primary focus is on providing an efficient and collaborative platform for reporting and resolving issues such as potholes, damaged roads, debris obstruction,and flooding. Users can rate these issues according to their urgency.
     <br />
     <br />
     <a href="">Video Demo</a>
