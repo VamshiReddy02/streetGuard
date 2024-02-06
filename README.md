@@ -30,6 +30,7 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Roadmap](#roadmap)
+- [Images](#images)
 - [Contribution](#contribute)
 - [Contact](#maintainer)
 
@@ -96,6 +97,21 @@ npm install
 See the [open issues](https://github.com/VamshiReddy02/streetGuard/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
+
+## Images
+
+<p align="center">
+**1.** Home Page
+<img src="./img/home.png" alt="Logo"> 
+**2.** Login Page
+<img src="./img/login.png" alt="Logo"> 
+**3.** User Dashboard page
+<img src="./img/dashboard.png" alt="Logo"> 
+**4.** Issue creating page
+<img src="./img/issue.png" alt="Logo"> 
+**5.** Issue Info Page
+<img src="./img/issueInfo.png" alt="Logo"> 
+</p>
 
 ## Contribute
 
